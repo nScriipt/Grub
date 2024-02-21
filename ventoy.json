@@ -1,0 +1,19 @@
+{
+    "theme": {
+        "file": "/ventoy/theme/windows11/theme.txt",
+        "gfxmode": "1920x1080",
+        "display_mode": "GUI",
+        "serial_param": "--unit=0 --speed=9600",
+        "ventoy_left": "5%",
+        "ventoy_top": "95%",
+        "ventoy_color": "#0000ff",
+        "fonts": [
+            "/ventoy/theme/windows11/terminus-12.pf2",
+            "/ventoy/theme/windows11/terminus-14.pf2",
+            "/ventoy/theme/windows11/terminus-16.pf2",
+            "/ventoy/theme/windows11/terminus-18.pf2",
+            "/ventoy/theme/windows11/ubuntu_regular_17.pf2",
+            "/ventoy/theme/windows11/ubuntu_regular_20.pf2"   
+        ]
+    }
+}
